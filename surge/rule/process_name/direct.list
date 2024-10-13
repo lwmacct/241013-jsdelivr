@@ -10,13 +10,25 @@ PROCESS-NAME,/Applications/TencentMeeting.app/*
 PROCESS-NAME,/Applications/如流.app/*
 PROCESS-NAME,/Applications/抖音.app/*
 PROCESS-NAME,/Applications/语雀.app/*
-PROCESS-NAME,/Applications/语雀.app/*
+PROCESS-NAME,/Applications/微信.app/*
+PROCESS-NAME,/Applications/钉钉.app/*
+
+PROCESS-NAME,/Applications/QQ音乐.app/*
+PROCESS-NAME,/Applications/百度网盘.app/*
+PROCESS-NAME,/Applications/阿里云盘.app/*
 PROCESS-NAME,/Applications/企业微信.app/*
-PROCESS-NAME,/Applications/哔哩哔哩.app/*
 PROCESS-NAME,/Applications/喜马拉雅.app/*
-PROCESS-NAME,/Applications/哔哩哔哩.app/*
 PROCESS-NAME,/Applications/高德地图.app/*
+
+PROCESS-NAME,/Applications/腾讯会议.app/*
+PROCESS-NAME,/Applications/腾讯视频.app/*
+
+PROCESS-NAME,/Applications/哔哩哔哩.app/*
+PROCESS-NAME,/Applications/哔哩哔哩 2.app/*
+
+PROCESS-NAME,/Applications/剪映专业版.app/*
 PROCESS-NAME,/Applications/网易有道翻译.app/*
+
 
 # 非标准 App
 PROCESS-NAME,/Library/Input Methods/SogouInput.app/*

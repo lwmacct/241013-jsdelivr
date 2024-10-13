@@ -1,2 +1,5 @@
-PROCESS-NAME,/Applications/iBar.app
-PROCESS-NAME,/Applications/Xmind.app
+PROCESS-NAME,/Applications/iBar.app/*
+PROCESS-NAME,/Applications/Xmind.app/*
+PROCESS-NAME,/Applications/Magnet.app/*
+PROCESS-NAME,/Applications/Paste.app/*
+PROCESS-NAME,/Applications/cd to.app/*
