@@ -1,6 +1,7 @@
 #!/bin/sh
 # shellcheck disable=all
-# https://cdn.jsdelivr.net/gh/lwmacct/241013-jsdelivr@main/docker/install/get-docker.sh
+# https://get.docker.com/
+# https://1142.s.kuaicdn.cn:11428/tools-repos-t241204/master/raw/branch/main/docker/install/get-docker.sh
 
 set -e
 # Docker Engine for Linux installation script.
